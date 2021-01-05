@@ -9,9 +9,12 @@ Environment: Python 3.6
 numpy==1.16.0
 scikit-image==0.17.2
 tqdm==4.52.0
+
 And then the directory structure
 1.pic_ ex.py
 2.data
+
 There are ten folders with NPY files inside
 3.pic_ data
+
 The following contains ten categories of folder to extract pictures, and each folder has three folders: test, train and val
