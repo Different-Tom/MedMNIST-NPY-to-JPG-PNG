@@ -5,9 +5,13 @@ Researchers at Shanghai Jiaotong University created a new open medical image dat
 Run pic_ ex.py file is OK, there are relevant notes in it.
 
 
-Environment: Python 3.6
+Environment: 
+Python 3.6
+
 numpy==1.16.0
+
 scikit-image==0.17.2
+
 tqdm==4.52.0
 
 And then the directory structure
